@@ -4,7 +4,7 @@ El objetivo es ofrecer un chat estilo WebUI con historial, guardado en JSON y pe
 
 ---
 
-## 🚀 Requisitos
+## Requisitos
 - **Python 3.10+**.
 - **FastAPI** y dependencias (`pip install fastapi uvicorn`).
 - **Ollama** instalado y corriendo en tu sistema.
@@ -20,7 +20,8 @@ PTalk AI/
 │   ├── index.html
 │   ├── style.css
 │   └── app.js
-└── start.sh         # Script de arranque rápido
+└── inicio-ptalk.sh       # Script de arranque para GNU/Linux
+└── start.bat             # Script de arranque para Windows
 
 ## ⚙️ How to use (GNU/Linux)
 
